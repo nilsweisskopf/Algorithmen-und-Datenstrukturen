@@ -10,7 +10,7 @@ Summer Semester 2025 · ~Nils Weißkopf
 
 ```
 Projects SS25/
-├── DataStructures/       # SearchTree, HashMap, Priority Queue
+├── DataStructures/       # SearchTree, HashMap, Priority Queue, Dynamic Array
 └── SortingAlgorithms/    # MergeSort, QuickSort, InsertionSort, BubbleSort, OneSort
 ```
 
@@ -25,6 +25,7 @@ Implementations of fundamental data structures in Python.
 | `SearchTree` | Binary Search Tree with recursive lookup |
 | `HashMap` | Hash map with collision handling |
 | `PriorityQueue` | Priority Queue based on heap structure |
+| `Dynamic Array` | Dynamic Array solved as a counter |
 
 ---
 
